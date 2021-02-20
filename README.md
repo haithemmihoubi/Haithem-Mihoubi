@@ -1,4 +1,4 @@
-# Haithem-Mihoubi
+# haithemmihoubi
 <h1 align="center">Hi 👋, I'm Haithem Mihoubi</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?raw=true" width="500" height="320" />
